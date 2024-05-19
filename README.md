@@ -15,10 +15,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rajesh333-3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Today's Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Today's Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
