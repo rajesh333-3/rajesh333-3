@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI ML, Data Science and  Engineering <br>👯 I’m looking to collaborate on Data Science and Analytics<br>🤝 I’m looking for help with Machine Learning and AI<br>🌱 I’m currently learning Data Management on Cloud<br>💬 Ask me about Python,ML<br>⚡ Fun fact : I am a jack of all and master of some :)
+🔭 I’m currently working on AI ML, Data Science and  Engineering <br>👯 I’m looking to collaborate on Data Science and Analytics<br>🤝 I’m looking for help open source collaboration <br>🌱 I’m currently learning Data Management on Cloud<br>💬 Ask me about Python,ML<br>⚡ Fun fact : I am a jack of all and master of some :)
 
 
 ## 🌐 Socials:
